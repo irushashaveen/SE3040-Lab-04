@@ -1,0 +1,3 @@
+Hello from SE3040 Lab 04!
+This is a sample text file for demonstrating Node.js file operations.
+Learning Node.js is fun and exciting!
