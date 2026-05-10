@@ -1,2 +1,2 @@
 //this is test for git command practice
-//print("hello owlrd") 
+console.log("This is from main branch");
